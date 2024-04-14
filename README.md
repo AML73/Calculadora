@@ -4,4 +4,4 @@
 
 Ejercicio en C# y WinForms usando VS2020.  Una calculadora simple de números enteros y operaciones básicas.
 
-[(https://github-readme-stats.vercel.app/api?username=AML73&show_icons=true&theme=default)]
+[![Estadísticas GitHub de AML73](https://github-readme-stats.vercel.app/api?username=AML73&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
